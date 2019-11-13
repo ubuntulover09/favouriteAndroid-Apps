@@ -9,11 +9,11 @@ http://wifikillapk.com/download/
 http://www.csploit.org/downloads/
 https://droidsheep.info/
 
-
-
-
-
-
+https://play.google.com/store/apps/details?id=com.sonelli.juicessh
+https://play.google.com/store/apps/details?id=io.keybase.ossifrage
+https://play.google.com/store/apps/details?id=com.palmtronix.shreddit.v1
+https://play.google.com/store/apps/details?id=com.paprbit.dcoder&hl=en_IN
+https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free&hl=en_IN
 https://play.google.com/store/apps/details?id=org.speedspot.wififinder&hl=en_IN
 https://play.google.com/store/apps/details?id=com.tester.wpswpatester&hl=en
 https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en
@@ -29,8 +29,8 @@ https://play.google.com/store/apps/details?id=org.kost.nmap.android.networkmappe
 https://play.google.com/store/apps/details?id=com.tester.wpswpatester
 https://play.google.com/store/apps/details?id=net.xnano.android.changemymac
 https://play.google.com/store/apps/details?id=com.termux
-
-
+https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain
+https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub
 
 
 https://github.com/robquad/Arpspoof
